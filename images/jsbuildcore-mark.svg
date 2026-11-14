@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240"><g transform="translate(0,0) scale(1.0)">
+  <defs><linearGradient id="bld0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2C5A8C"/><stop offset="1" stop-color="#0E2A4F"/></linearGradient></defs>
+  <!-- S (gold) -->
+  <path d="M158 66 C156 34 96 30 86 64 C76 100 132 108 150 128 C172 152 160 196 120 204 C96 209 76 200 66 186" fill="none" stroke="#E09B20" stroke-width="15" stroke-linecap="round"/>
+  <path d="M102 98 C118 107 138 116 149 127" fill="none" stroke="#E09B20" stroke-width="20" stroke-linecap="round"/>
+  <!-- J (navy) -->
+  <path d="M66 12 H146 V30 H66 Z" fill="#0E2A4F"/>
+  <path d="M96 14 H120 V178 C120 214 96 232 62 230 L56 228 L60 212 C84 214 96 202 96 180 Z" fill="#0E2A4F"/>
+  <!-- buildings in the S bowl -->
+  <g fill="url(#bld0)" stroke="#FFFFFF" stroke-width="2.5" paint-order="stroke">
+    <rect x="126" y="150" width="11" height="46"/>
+    <rect x="139" y="136" width="12" height="58"/>
+    <rect x="153" y="160" width="9" height="30"/>
+  </g>
+  <g fill="#FFFFFF" opacity=".55">
+    <rect x="129" y="156" width="2" height="3"/><rect x="133" y="156" width="2" height="3"/><rect x="129" y="164" width="2" height="3"/><rect x="133" y="164" width="2" height="3"/><rect x="129" y="172" width="2" height="3"/><rect x="133" y="172" width="2" height="3"/>
+    <rect x="142" y="143" width="2" height="3"/><rect x="146" y="143" width="2" height="3"/><rect x="142" y="151" width="2" height="3"/><rect x="146" y="151" width="2" height="3"/><rect x="142" y="159" width="2" height="3"/><rect x="146" y="159" width="2" height="3"/><rect x="142" y="167" width="2" height="3"/><rect x="146" y="167" width="2" height="3"/>
+  </g>
+</g></svg>
